@@ -1,0 +1,2 @@
+# ghostwriter-privacy
+ghostwriter-privacy
